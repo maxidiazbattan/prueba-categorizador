@@ -28,12 +28,12 @@ def prediction(data):
         df = df.drop(missing_target_values, axis = 0).reset_index(drop=True)
 
         df = df[['id', 'familia', 'marca']].dropna(axis = 0).reset_index(drop=True)
-        array = df.values
+        #array = df.values
     else:
         df = df[['id', 'familia', 'marca']].dropna(axis = 0).reset_index(drop=True)
-        array = df.values
+        #array = df.values
 
-    prediction=model.predict(array)
+    prediction=model.predict(df)
     
     preds = list()
 
