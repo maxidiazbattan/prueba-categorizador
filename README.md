@@ -24,9 +24,7 @@ This project is about creating a categorizer, that is, designing a machine learn
 4. To deploy an app, click "New app" from the upper right corner of your workspace, then fill in your repo, branch, and file path, and click "Deploy". As a shortcut, you can also click "Paste GitHub URL".
 5. Advanced settings for deployment, If you are connecting to a data source or want to select a Python version for your app, you can do that by clicking "Advanced settings" before you deploy the app.
 6. Your app is now deploying and you can watch while it launches. Most apps take only a couple of minutes to deploy, but if your app has a lot of dependencies it may take some time to deploy the first time. After the initial deployment, any change that does not touch your dependencies should show up immediately.
-8. Your app URL, that's it — you're done! Your app now has a permanent URL that you can share with others. Click here to read about how to share your app with viewers. 
-
-10. That's it, your app it's deployed, congrats!
+8. Once your app URL it's ready, that's it — you're done! Your app now has a permanent URL that you can share with others. Congrats!
 
 ## Built With
 
