@@ -26,10 +26,10 @@ This project is about creating a categorizer, that is, designing a machine learn
 6. Your app is now deploying and you can watch while it launches. Most apps take only a couple of minutes to deploy, but if your app has a lot of dependencies it may take some time to deploy the first time. After the initial deployment, any change that does not touch your dependencies should show up immediately.
 8. Once your app URL it's ready, that's it — you're done! Your app now has a permanent URL that you can share with others. Congrats!
 
-## Built With
+# Built With
 
 * [Streamlit](https://streamlit.io/) - The web framework used
 
-## Author
+# Author
 
 * **Maximiliano Diaz Battan** 
