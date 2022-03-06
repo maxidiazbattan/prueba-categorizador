@@ -32,7 +32,7 @@ This project is about creating a categorizer, that is, designing a machine learn
 
 * [Python](https://docs.python.org/3/) - Programming language
 * [Pandas](https://pandas.pydata.org/docs/) - Data manipulation python library
-* [Pandas](https://scikit-learn.org/stable/user_guide.html) - Machine learning python library
+* [Sklearn](https://scikit-learn.org/stable/user_guide.html) - Machine learning python library
 * [Streamlit](https://streamlit.io/) - Web app framework 
 
 
