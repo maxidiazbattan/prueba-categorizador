@@ -1,4 +1,4 @@
-# Categorizer for e-commerce
+# E-commerce catalog categorizer
 
 This project is about creating a categorizer, that is, designing a machine learning model so that based on certain features such as "id", "family, "group", etc., it categorizes the entire batch of products of a e-commerce of auto parts. You can check the final web app by clicking the badge down below. Maybe it takes a bit to load the first time because it's dorment at Streamlit services.
 
