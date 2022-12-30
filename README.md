@@ -19,8 +19,8 @@ This project is about creating a categorizer, that is, designing a machine learn
 2. Preview web page in browser '/'
 
 ## Deploy to Streamlit
-1. Add your app to GitHub. Streamlit Cloud launches apps directly from your GitHub repo, so your app code and dependencies need to be on GitHub before you try to deploy the app
-2. Create a free account on Streamlit Share https://signup.heroku.com/login
+1. Add your app to GitHub. Streamlit Cloud launches apps directly from your GitHub repo, so your app code and dependencies need to be on GitHub before you try to deploy the app.
+2. Create a free account on Streamlit Share.
 3. Create a `requirements.txt` file with all your non-standard dependencies (based on any libraries you are importing), separated by a newline. In our case, they are `Flask` w/ a capital F. Note that libraries like `os` are standard imports, so they don't need to be included.
 4. To deploy an app, click "New app" from the upper right corner of your workspace, then fill in your repo, branch, and file path, and click "Deploy". As a shortcut, you can also click "Paste GitHub URL".
 5. Advanced settings for deployment, If you are connecting to a data source or want to select a Python version for your app, you can do that by clicking "Advanced settings" before you deploy the app.
