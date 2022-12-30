@@ -1,7 +1,7 @@
 # E-commerce catalog categorizer
 
-This project is about creating a categorizer, that is, designing a machine learning model so that based on certain features such as "id", "family, "group", etc., it categorizes the entire batch of products of a e-commerce of auto parts. You can check the final web app by clicking the badge down below. Maybe it takes a bit to load the first time because it's dorment at Streamlit services. To test the app, use the csv file named "data_rya.csv" for make predictions.
-".
+This project is about creating a categorizer, that is, designing a machine learning model so that based on certain features such as "id", "family, "group", etc., it categorizes the entire batch of products of a e-commerce of auto parts. You can check the final web app by clicking the badge down below. Maybe it takes a bit to load the first time because it's dorment at Streamlit services. To test the app, use the CSV file named "data_rya.csv" to make predictions.
+
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/maxidiazbattan/streamlit-categorizador-repuestosya/main/app.py)
 
 
